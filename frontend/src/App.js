@@ -25,7 +25,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1 className="heading">Welcome to the tier Application</h1>
+      <h1 className="heading">Welcome to the 2 tier Application</h1>
       <div className="content">
         <p className="info">You are viewing the frontend.</p>
         <button className="button" onClick={handleClick} disabled={loading}>
