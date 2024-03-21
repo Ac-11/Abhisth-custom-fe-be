@@ -7,7 +7,7 @@ This is a frontend application for interacting with a two-tier application.
 To get started with this project, follow these steps:
 
 1. Clone the repository.
-2. Install dependencies for the frontend using `npm install`.
+2. Install dependencies for the fronten using `npm install`.
 3. Start the development server for the frontend using `npm start`.
 4. Make sure the backend server is running (see instructions below).
 
